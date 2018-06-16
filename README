@@ -25,6 +25,7 @@ how to use:
 
 
  misc:
+    lot of warning during compile time due to the use off assembly library
     the slave make a first count words on Sx file instead of return a tuple of each word with a count of 1
     Step 50/51 modified compute in once List[UMx] -> RMx insted of 2 time process List[UMx] -> SMx then SMx -> RMx
     future is used for compute on the machines in a parallel way, but the result (some times) have problemes to come
